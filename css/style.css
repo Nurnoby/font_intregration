@@ -1,0 +1,50 @@
+
+@font-face{
+	font-family:Awesome_Season_Personal_Use;
+	src:url(../fonts/Awesome_Season_Personal_Use.ttf);
+}
+@font-face{
+	font-family: Gethania;
+	src:url(../fonts/Gethania.ttf);
+}
+body{
+	background-color: #ecf0f1;
+
+}
+/*font1*/
+.font1{
+	font-family: 'Charm', cursive;
+	font-size: 20px;
+	text-align: justify;
+}
+.font1 h1{
+	font-size: 30px;
+	text-align: center;
+}
+/*font1*/
+
+/*font2*/
+.font2{
+	font-family:Awesome_Season_Personal_Use;
+	font-size: 20px;
+	text-align: justify;
+}
+.font2 h1{
+	font-size: 30px;
+	text-align: center;
+	
+}
+
+
+/*font2*/
+/*font3*/
+
+.font3{
+	font-family: Gethania;
+	font-size: 20px;
+	text-align: justify;
+}
+.font3 h1{
+	text-align: center;
+}
+/*font3*/
